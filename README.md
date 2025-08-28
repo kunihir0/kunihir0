@@ -8,5 +8,6 @@
 </pre>
 <br><br>
 <br><br><br>
-[![](https://img.shields.io/badge/AptRepo-ff66ab)](https://kunihir0.github.io/WattMaster)
+
+[![](https://img.shields.io/badge/APTrepo!-ff66ab)](https://kunihir0.github.io/WattMaster)
 </div>
